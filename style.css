@@ -1,0 +1,48 @@
+body{
+      background-color: rgb(82, 220, 227)
+}
+marquee{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+}
+img {
+    display: block;
+    width:  500px;
+    height: 500px;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: auto;
+  }
+  h2{
+        text-align: center;
+        font-size: 30px;
+  }
+  h3{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 25px;
+  }
+  .content ul {
+    padding: 0 20vw;
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    list-style: disc;
+    list-style-position: inside;
+  }
+  
+  .content ul li {
+    font-weight: 100;
+  }
+ 
